@@ -1,5 +1,7 @@
 # Бесхребетное солнце VCV Rack
 
+![rack](img/screen.png)
+
 A virtual modular rack for song https://youtu.be/Y2RphGohREE
 
 Instalation and running:

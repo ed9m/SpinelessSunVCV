@@ -1,10 +1,10 @@
 # Бесхребетное солнце VCV Rack
 
-Виртуальный модульный сетап для песни "Бесхребетное солнце" в VCV Rack.
+A virtual modular rack for song https://youtu.be/Y2RphGohREE
 
-Установка и запуск:
-1. Установить [VCV Rack](https://vcvrack.com/)
-2. Установить плагины:
+Instalation and running:
+1. Install [VCV Rack](https://vcvrack.com/)
+2. Install plugins:
    - Vult
    - Impromptu modular
    - Hora
@@ -20,8 +20,7 @@
    - mscHack
    - Audible Instruments
    - RJModules
-3. Для использования Ableton Push 2 установить [AbletonPush2VCV](https://github.com/ed9m/ed9m_vcv/)
-
+3. For Ableton Push 2 usage install [AbletonPush2VCV](https://github.com/ed9m/ed9m_vcv/)
 
 
 This work is licensed under a [Creative Commons Attribution NonCommercial-ShareAlike 4.0 International
